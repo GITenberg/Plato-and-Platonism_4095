@@ -1,0 +1,27 @@
+_repo: Plato-and-Platonism_4095
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter H. (Walter Horatio)
+    - Pater, Walter Horatio
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Plato'
+- !lcc 'B'
+title: Plato and Platonism
+url: http://www.gutenberg.org/ebooks/4095
