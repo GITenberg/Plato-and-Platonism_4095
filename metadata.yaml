@@ -1,5 +1,5 @@
 _repo: Plato-and-Platonism_4095
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Philosophy, Ancient'
 - !lcsh 'Plato'
 - !lcc 'B'
+- GITenberg
 title: Plato and Platonism
 url: http://www.gutenberg.org/ebooks/4095
